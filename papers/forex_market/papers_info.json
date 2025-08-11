@@ -1,0 +1,12 @@
+{
+  "1805.03980v2": {
+    "title": "Total, asymmetric and frequency connectedness between oil and forex markets",
+    "authors": [
+      "Jozef Barun\u00edk",
+      "Ev\u017een Ko\u010denda"
+    ],
+    "summary": "We analyze total, asymmetric and frequency connectedness between oil and\nforex markets using high-frequency, intra-day data over the period 2007 --\n2017. By employing variance decompositions and their spectral representation in\ncombination with realized semivariances to account for asymmetric and frequency\nconnectedness, we obtain interesting results. We show that divergence in\nmonetary policy regimes affects forex volatility spillovers but that adding oil\nto a forex portfolio decreases the total connectedness of the mixed portfolio.\nAsymmetries in connectedness are relatively small. While negative shocks\ndominate forex volatility connectedness, positive shocks prevail when oil and\nforex markets are assessed jointly. Frequency connectedness is largely driven\nby uncertainty shocks and to a lesser extent by liquidity shocks, which impact\nlong-term connectedness the most and lead to its dramatic increase during\nperiods of distress.",
+    "pdf_url": "http://arxiv.org/pdf/1805.03980v2",
+    "published": "2018-05-09"
+  }
+}
